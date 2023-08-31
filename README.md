@@ -1,9 +1,9 @@
 # Joshua Barlaan
 
-###Education
+## Education
 McMaster University
 
-###Work Expericence
+## Work Expericence
 Thode Makerspace at McMaster University
 
-#Projects
+# Projects
