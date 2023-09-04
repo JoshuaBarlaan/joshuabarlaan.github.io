@@ -1,3 +1,8 @@
 title: Joshua Barlaan
-show downloads: false
+author: Joshua Barlaan
+email: joshua_barlaan@live.com
+
+linkedin_username: joshua-barlaan
 theme: minima
+minima:
+  skin: dark
