@@ -1,5 +1,3 @@
 title: Joshua Barlaan
-#logo: /assets/img/profile_picture.jpg
-#description: text below image
 show downloads: false
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
