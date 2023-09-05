@@ -10,7 +10,7 @@
 
 ## Education
 ### Bachelor of Technology – Automation | McMaster University, Hamilton, ON  
-(*DEC. 2021*)
+*(DEC. 2021)*    
 An integrated four-year joint interdisciplinary program with McMaster University and Mohawk College. Graduated with 
 Bachelors in Automation, Advance diploma in Chemical Engineering along with business certificate
 
