@@ -38,5 +38,11 @@ moment’s notice to do any number of things at any given time.
 constraints of the server permissions.
 
 ## Projects
+-<model-viewer src="dial.glb"
+              ios-src="https://modelviewer.dev/shared-assets/models/Astronaut.usdz"
+              alt="A 3D model of an astronaut"
+              ar
+              auto-rotate
+              camera-controls></model-viewer>
 -[List of 3D models](https://joshuabarlaan.github.io/3d_models/)  
--[List of Unity Games](https://joshuabarlaan.github.io/FlippyBirb/)  
+-[List of Unity Games](https://joshuabarlaan.github.io/FlippyBirb/)
