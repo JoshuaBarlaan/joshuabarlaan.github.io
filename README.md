@@ -6,15 +6,15 @@
 - **Office 365:** Word, Excel, PowerPoint, Outlook, Project
 - **Prototyping:** Solidworks, Fusion 360, Inventor, 3D printing
 - **Development:** Arduino, Raspberry Pi, FPGA
-- **PLC:** RSLogic 5000 (Allen-Bradley)
+- **PLC:** RSLogix 5000 (Allen-Bradley)
 
 ## Education
 ### Bachelor of Technology – Automation | McMaster University, Hamilton, ON  
-*(DEC. 2021)*    
+*(SEPT. 2016 - DEC. 2021)*    
 An integrated four-year joint interdisciplinary program with McMaster University and Mohawk College. Graduated with 
 Bachelors in Automation, Advance diploma in Chemical Engineering along with business certificate
 
-## Work ExpericenceExperience
+## Work Expericence
 ### Makerspace Coordinator | McMaster University, Hamilton, ON  
 *(MAY 2020 - DEC 2021, 18 MONTHS)*
 - Assembled and utilized Prusa i3 MK3S and Prusa Mini 3D printers for creating 3D printed objects for practical uses.
@@ -39,9 +39,7 @@ constraints of the server permissions.
 
 ## Projects
 -<model-viewer src="dial.glb"
-              ios-src="https://modelviewer.dev/shared-assets/models/Astronaut.usdz"
-              alt="A 3D model of an astronaut"
-              ar
+              alt="A 3D model of dial counter"
               auto-rotate
               camera-controls></model-viewer>
 -[List of 3D models](https://joshuabarlaan.github.io/3d_models/)  
