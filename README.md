@@ -41,6 +41,6 @@ constraints of the server permissions.
 -<model-viewer src="dial.glb"
               alt="A 3D model of dial counter"
               auto-rotate
-              camera-controls></model-viewer>
+              camera-controls></model-viewer>  
 -[List of 3D models](https://joshuabarlaan.github.io/3d_models/)  
 -[List of Unity Games](https://joshuabarlaan.github.io/FlippyBirb/)
