@@ -1,8 +1,3 @@
----
-layout: post
-title: 3D Models
----
-
 #3D Models
 
 ## Tube
