@@ -1,6 +1,9 @@
 title: Joshua Barlaan
 email: joshua_barlaan@live.com
 
+header_pages:
+  - 3D_Models.md
+
 linkedin_username: joshua-barlaan
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
