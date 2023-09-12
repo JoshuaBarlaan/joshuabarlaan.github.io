@@ -2,6 +2,6 @@
 
 <Header>
   {% for post in site.posts %}
-      <h href="{{ post.url }}">{{ post.title }}</h>
+      <h1 href="{{ post.url }}">{{ post.title }}</h1>
   {% endfor %}
 </Header>
