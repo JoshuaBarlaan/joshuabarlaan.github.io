@@ -38,9 +38,10 @@ moment’s notice to do any number of things at any given time.
 constraints of the server permissions.
 
 ## Projects
--<model-viewer src="dial.glb"
-              alt="A 3D model of dial counter"
-              auto-rotate
-              camera-controls></model-viewer>  
+-<model-viewer src="dial.glb" 
+               orientation="90deg 0 0" 
+               alt="A 3D model of dial counter" 
+               auto-rotate
+               camera-controls></model-viewer>  
 -[List of 3D models](https://joshuabarlaan.github.io/3d_models/)  
 -[List of Unity Games](https://joshuabarlaan.github.io/FlippyBirb/)
