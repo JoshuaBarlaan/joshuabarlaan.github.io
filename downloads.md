@@ -1,9 +1,9 @@
-# Download
+# Downloads
 
 ## 3D Models
 
 ## Tube 
-<model-viewer src="tube/tube_glb_files/tube.glb"
+<model-viewer src="3D_Models/tube/tube_glb_files/tube.glb"
               alt="A 3D model of a tube"
               auto-rotate
               camera-controls></model-viewer> 
