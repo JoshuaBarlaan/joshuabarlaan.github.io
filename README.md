@@ -39,7 +39,7 @@ constraints of the server permissions.
 
 ## Projects
 -<model-viewer src="dial.glb" 
-               orientation="90deg 90deg 0" 
+               orientation="90deg 0 90deg" 
                alt="A 3D model of dial counter" 
                auto-rotate
                camera-controls></model-viewer>
