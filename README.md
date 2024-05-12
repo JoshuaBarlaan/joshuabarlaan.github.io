@@ -37,12 +37,5 @@ moment’s notice to do any number of things at any given time.
 - Demonstrated problem solving skills by finding a way to bypass bugs on the computer while working within the 
 constraints of the server permissions.
 
-## Projects
--<model-viewer src="dial.glb" 
-               orientation="90deg 0 90deg" 
-               alt="A 3D model of dial counter" 
-               auto-rotate
-               camera-controls></model-viewer>
-               <!-- orientation= Front/Back, Left/Right, Up/down rubiks cube-->
--[List of 3D models](https://joshuabarlaan.github.io/3d_models/)  
+## [List of Projects](https://joshuabarlaan.github.io/3d_models/)  
 -[List of Unity Games](https://joshuabarlaan.github.io/FlippyBirb/)
