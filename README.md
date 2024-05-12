@@ -37,5 +37,6 @@ moment’s notice to do any number of things at any given time.
 - Demonstrated problem solving skills by finding a way to bypass bugs on the computer while working within the 
 constraints of the server permissions.
 
-## [List of Projects](https://joshuabarlaan.github.io/3d_models/)  
--[List of Unity Games](https://joshuabarlaan.github.io/FlippyBirb/)
+### [List of Projects](https://joshuabarlaan.github.io/projects.html)
+### [Flippy Birb - Unity](https://joshuabarlaan.github.io/FlippyBirb/)
+### [List of Posts](https://joshuabarlaan.github.io/posts.html)
